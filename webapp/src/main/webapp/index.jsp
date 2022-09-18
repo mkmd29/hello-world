@@ -4,7 +4,7 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Welcome JOya Singh  Enter Name NAME</b></label>
+    <label for="Name"><b>Welcome JOyaOO Singh  Enter Name NAME</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
